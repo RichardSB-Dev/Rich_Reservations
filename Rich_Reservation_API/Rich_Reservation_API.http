@@ -1,0 +1,6 @@
+@Rich_Reservation_API_HostAddress = http://localhost:5261
+
+GET {{Rich_Reservation_API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
